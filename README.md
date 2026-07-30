@@ -2,4 +2,5 @@
 
 ㅤㅤ[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BB9779CA&width=435&lines=mamaguro-san+.+.)](https://git.io/typing-svg)
 
-[Roblox](https://www.roblox.com/users/1752242757689/profile)
+ㅤㅤㅤㅤ꒰ㅤㅤㅤㅤㅤ[Roblox](https://www.roblox.com/users/2822157017/profile)ㅤㅤㅤFeel free to add me! ♡
+
