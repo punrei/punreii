@@ -90,3 +90,25 @@ $\color{#2E5CA5}{05/}$ $\color{#4A78BE}{07/}$ $\color{#93B8E8}{20}$ $\color{#C8E
 </table>
 
 </div>
+
+<div align="center">
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
+</div>
+
+<div align="center">
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
+</div>
+
+<div align="center">
+
+$\color{#2E5CA5}{Special}$ $\color{#4A78BE}{thanks}$ $\color{#6C98D4}{to\ my\ own}$ $\color{#93B8E8}{big\ sister}$ $\color{#C8E4FF}{for\ making\ this\ README!}$
+
+<br>
+
+$\color{#2E5CA5}{@}$ $\color{#4A78BE}{(https://github.com/punrei)}$
+
+</div>
