@@ -28,7 +28,25 @@ $\color{#2E5CA5}{Living\ for}$ $\color{#6C98D4}{the}$ $\color{#a0c2ef}{weekend!}
 
 <img src="https://i.postimg.cc/RCy1bn8K/dawn-hold.gif" width="500">
 
-</div>
+<div align="center">
+<table align="center" width="80%">
+<tr>
+
+<td align="center" width="40%">
+<img src="https://i.postimg.cc/FznhtrZ1/mechibi.png" width="420">
+</td>
+
+<td align="center" width="60%">
+
+<p>
+
+$\color{#7E7F86}{ENTJ}$ $\color{#888991}{8w9}$ $\color{#9294A0}{sx8,}$ $\color{#9C9DAF}{sx/sp,}$ $\color{#908481}{854}$
+
+$\color{#7E7F86}{Te-Ni-Se-Fi}$ $\color{#9C9DAF}{/}$ $\color{#908481}{Te(Ni)}$
+
+$\color{#7E7F86}{Choleric-}$ $\color{#888991}{Melan}$ $\color{#9294A0}{cho}$ $\color{#908481}{lic}$
+
+$\color{#7E7F86}{26/}$ $\color{#888991}{07/}$ $\color{#9294A0}{20}$ $\color{#908481}{21}$
 
 </p>
 
@@ -72,23 +90,3 @@ $\color{#2E5CA5}{05/}$ $\color{#4A78BE}{07/}$ $\color{#93B8E8}{20}$ $\color{#C8E
 </table>
 
 </div>
-
-<div align="center">
-<table align="center" width="80%">
-<tr>
-
-<td align="center" width="40%">
-<img src="https://i.postimg.cc/FznhtrZ1/mechibi.png" width="420">
-</td>
-
-<td align="center" width="60%">
-
-<p>
-
-$\color{#7E7F86}{ENTJ}$ $\color{#888991}{8w9}$ $\color{#9294A0}{sx8,}$ $\color{#9C9DAF}{sx/sp,}$ $\color{#908481}{854}$
-
-$\color{#7E7F86}{Te-Ni-Se-Fi}$ $\color{#9C9DAF}{/}$ $\color{#908481}{Te(Ni)}$
-
-$\color{#7E7F86}{Choleric-}$ $\color{#888991}{Melan}$ $\color{#9294A0}{cho}$ $\color{#908481}{lic}$
-
-$\color{#7E7F86}{26/}$ $\color{#888991}{07/}$ $\color{#9294A0}{20}$ $\color{#908481}{21}$
