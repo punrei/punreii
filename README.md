@@ -23,3 +23,9 @@ $\color{#2E5CA5}{DNI:}$ $\color{#4A78BE}{People\ who\ make\ snide\ remarks,}$ $\
 $\color{#2E5CA5}{Living\ for}$ $\color{#6C98D4}{the}$ $\color{#a0c2ef}{weekend!}$
 
 </div>
+
+<div align="center">
+
+<img src="https://i.postimg.cc/RCy1bn8K/dawn-hold.gif" width="500">
+
+</div>
