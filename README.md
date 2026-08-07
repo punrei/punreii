@@ -103,6 +103,6 @@ $\color{#2E5CA5}{Special}$ $\color{#4A78BE}{thanks}$ $\color{#6C98D4}{to\ my\ ow
 
 <br>
 
-$\color{#2E5CA5}{@}$ $\color{#4A78BE}{[ @punrei](https://github.com/punrei)}$
+<a href="https://github.com/punrei">@punrei</a>
 
 </div>
