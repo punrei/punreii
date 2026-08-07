@@ -1,4 +1,10 @@
-<img src="https://i.postimg.cc/rz28RJpK/bannermiwa.png" width="900">
+</div>
+
+<div align="center">
+
+<img src="https://i.postimg.cc/rz28RJpK/bannermiwa.png" width="850">
+
+</div>
 
 <div align="center">
 
