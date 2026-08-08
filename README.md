@@ -1,3 +1,9 @@
+<div align="center">
+
+![](https://img.shields.io/badge/✦-2,618-white?labelColor=7986cb)
+
+</div>
+
 </div>
 
 <div align="center">
